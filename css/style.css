@@ -3,3 +3,56 @@ html {
   width: 100%;
 }
 
+.space {
+  margin-top: 40px;
+  padding-bottom: 100px;
+}
+
+.vAlign {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+#graph {
+  margin-top: 40px;
+}
+
+#edutitle {
+  margin-top: 40px;
+}
+
+.pic4 {
+  border-style: dashed;
+}
+
+body {
+  background-color: #EAFDCF;
+}
+
+h1,h3 {
+  color: #4d3504
+}
+
+.pspace {
+  margin-top: 30px;
+}
+
+.cite {
+  margin-top: 80px;
+}
+
+.bsite {
+  background-color: #4d3504;
+}
+
+h1,h2,h3 {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#overview {
+  margin-top: 50px;
+}
